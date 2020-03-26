@@ -1,2 +1,2 @@
 # normalBevel
-Surface SmartMaterial to create beveled edges
+Substance Painter SmartMaterial to create beveled edges
